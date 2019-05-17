@@ -1,18 +1,14 @@
-## THIS IS UNMAINTAINED
-
-More details [here](https://github.com/sqlectron/sqlectron-gui/issues/433).
-
----
-
-[![Slack Status](https://sqlectron.herokuapp.com/badge.svg)](https://sqlectron.herokuapp.com)
-[![Build Status](https://travis-ci.org/sqlectron/sqlectron-gui.svg?branch=master)](https://travis-ci.org/sqlectron/sqlectron-gui)
-[![Build status](https://ci.appveyor.com/api/projects/status/ajxvrvwqyrc8yr23/branch/master?svg=true)](https://ci.appveyor.com/project/maxcnunes/sqlectron-gui/branch/master)
-
 <p align="center">
   <img src="https://sqlectron.github.io/logos/logo-512.png">
   <br />
   A simple and lightweight SQL client with cross database and platform support.
+  
+  [![Slack Status](https://sqlectron.herokuapp.com/badge.svg)](https://sqlectron.herokuapp.com)
+  [![Build Status](https://travis-ci.org/sqlectron/sqlectron-gui.svg?branch=master)](https://travis-ci.org/sqlectron/sqlectron-gui)
+  [![Build status](https://ci.appveyor.com/api/projects/status/ajxvrvwqyrc8yr23/branch/master?svg=true)](https://ci.appveyor.com/project/maxcnunes/sqlectron-gui/branch/master)
 </p>
+
+
 
 #### Demo (version 1.0.0)
 ![demo](https://sqlectron.github.io/demos/sqlectron-demo-gui-v1.0.0-small.gif)
